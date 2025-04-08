@@ -1,0 +1,18 @@
+publi class bio{
+    public static void main(string args[]){
+    
+    }
+}
+/*unary operator
+ *   it is used to increse/decrese a value by 1
+ *   1.increment operator
+ *         1.preincrement(++valuue)
+ *                    it will increase the value by 1,then it will use
+ *         2.post increment(value++)
+ *                    firstly,it will use the value , then it increase the value by 1
+ *   2.decremment operator
+ *         1.predecrement(--value)
+ *         2.postdecrement(value--)
+ */a=11 
+ c=21
+ b=10+21+21+20+10+9+21
